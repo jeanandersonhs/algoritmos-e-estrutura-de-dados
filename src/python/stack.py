@@ -60,7 +60,7 @@ def main():
     newPilha.imprimirPilha()
 
     newPilha.delete_pop()
-    print("----------------------------")
+    print("----------------------------------")
     newPilha.imprimirPilha()
 
 if __name__== "__main__":
